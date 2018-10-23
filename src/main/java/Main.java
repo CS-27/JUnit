@@ -20,7 +20,7 @@ final class Main {
 		String accStr;  
 		String choice;
 		
-		if (args.length == 0) {
+		if (args.length == 0){
 			accStr = "20";
 			choice = "1";
 			
